@@ -84,17 +84,4 @@ pip install -r requirements.txt
 jupyter notebook notebooks/analysis.ipynb
 ```
 
----
 
-## 📄 Resume-Worthy Description
-
-> **Crypto Sentiment × Trading Behavior Analysis** | Python, Pandas, Seaborn, SciPy
-> 
-> Built an end-to-end quantitative analysis pipeline integrating 211K+ on-chain perpetuals trades from Hyperliquid DEX with the Bitcoin Fear & Greed Index (2,644 days). Engineered features including trade efficiency ratios, daily account-level PnL, and sentiment transition matrices. Applied one-way ANOVA, Pearson correlation, and Welch t-tests to identify statistically significant relationships between market sentiment and trader profitability. Produced 7 publication-quality visualizations revealing that Extreme Greed periods yield 89% win rates vs 76% in Extreme Fear, while Fear periods paradoxically attract the largest position sizes.
-
----
-
-## 📚 References
-
-- [Alternative.me Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
-- [Hyperliquid DEX](https://hyperliquid.xyz/)
